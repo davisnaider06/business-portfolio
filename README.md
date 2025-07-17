@@ -24,7 +24,7 @@ Site institucional moderno, responsivo e otimizado para minha empresa de tecnolo
 - [Netlify](https://www.netlify.com/)
 
 ---
-```
+
 ## 📂 Estrutura do Projeto
 
 
