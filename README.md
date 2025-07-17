@@ -83,7 +83,7 @@ Você pode acessar diretamente em:
 
 ## 🧠 Autor
 
-Desenvolvido com 💻 por **Davi Naider**
+Desenvolvido com 💻 por **Davi Snaider**
 📫 Contato: [davisnaider06@gmail.com](mailto:davisnaider06@gmail.com)
 
 ---
