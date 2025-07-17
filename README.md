@@ -27,7 +27,7 @@ Site institucional moderno, responsivo e otimizado para minha empresa de tecnolo
 
 ## 📂 Estrutura do Projeto
 
-
+````
 
 business-portfolio/
 ├── public/
@@ -39,7 +39,7 @@ business-portfolio/
 ├── index.html
 └── vite.config.js
 
-
+````
 
 ---
 
