@@ -11,7 +11,7 @@ Site institucional moderno, responsivo e otimizado para minha empresa de tecnolo
 
 ## 📸 Preview
 
-(<img width="1898" height="865" alt="image" src="https://github.com/user-attachments/assets/a8b21680-d437-40ad-a4c0-7bcf6ced1b71" />
+<img width="1898" height="865" alt="image" src="https://github.com/user-attachments/assets/a8b21680-d437-40ad-a4c0-7bcf6ced1b71" />
 
 ---
 
