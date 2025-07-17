@@ -1,4 +1,4 @@
-```markdown
+
 # 💼 CodeTek - Business Portfolio
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/35d5e2a4-2f66-4b33-96fc-79818d9fc28d/deploy-status)](https://codetek.netlify.app/)
@@ -24,10 +24,10 @@
 - [Netlify](https://www.netlify.com/)
 
 ---
-
+```
 ## 📂 Estrutura do Projeto
 
-```
+
 
 business-portfolio/
 ├── public/
@@ -39,7 +39,7 @@ business-portfolio/
 ├── index.html
 └── vite.config.js
 
-````
+
 
 ---
 
