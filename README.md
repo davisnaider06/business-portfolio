@@ -1,9 +1,9 @@
 
 # 💼 CodeTek - Business Portfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/35d5e2a4-2f66-4b33-96fc-79818d9fc28d/deploy-status)](https://codetek.netlify.app/)
 
-> Site institucional moderno, responsivo e otimizado para minha empresa de tecnologia. Desenvolvido com React e deploy feito via Netlify.
+Site institucional moderno, responsivo e otimizado para minha empresa de tecnologia. Desenvolvido com React e deploy feito via Netlify.
+
 
 ### 🔗 Acesse agora: [codetek.netlify.app](https://codetek.netlify.app/)
 
