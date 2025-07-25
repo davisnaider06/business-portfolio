@@ -451,7 +451,7 @@ const Index = () => {
           <div className="container mx-auto">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               <div>
-                <h3 className="text-4xl font-bold mb-6">Sobre a SoftDev</h3>
+                <h3 className="text-4xl font-bold mb-6">Sobre a Codetek</h3>
                 <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
                   Somos uma empresa especializada em desenvolvimento de software com mais de 5 anos de experiência no mercado. 
                   Nossa missão é transformar ideias em soluções digitais inovadoras que geram resultados reais para nossos clientes.
